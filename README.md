@@ -3,9 +3,9 @@
 <h3 align="center">Software Development Engineer | Full-Stack Developer | AI Trainer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gprudvi/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:gadeshulaprudhvi2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/gadeshula_prudvi/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 <p align="center">
@@ -117,5 +117,5 @@
 </p>
 
 <p align="center">
-  <i>📫 Reach out: gadeshulaprudhvi2004@gmail.com | +91-7032011417</i>
+  <i>📫 Reach out: gadeshulaprudhvi2004@gmail.com 
 </p>
